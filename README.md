@@ -31,9 +31,40 @@
 
 #### 📈 GitHub Stats
 
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davask&show_icons=true)
+![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davask&theme=radical&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&show_owner=true&locale=en)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davask)](https://github.com/davask/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davask&layout=compact&theme=radical&hide_border=true&locale=en)](https://github.com/davask/github-readme-stats)
+
+```php
+const Natan = {
+  pronouns: ["he", "him"],
+  code: [
+    "PHP",
+    "SQL",
+    "Javascript",
+    "JQuery",
+    "Ajax",
+    "HTML",
+    "CSS",
+    "Python",
+    "bash"
+  ],
+  tools: [
+    "WordPres",
+    "Laravel",
+    "Symfony",
+    "ReactJs",
+    "PWA",
+    "Composer",
+    "Node",
+    "NPM",
+    "Scss",
+  ],
+  challenge : "Make Maras IT a viable business for our customers"
+}
+```
+
+[![@davask's Holopin board](https://holopin.me/davask)](https://holopin.io/@davask)
 
 ---
 
