@@ -36,7 +36,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davask&layout=compact&theme=radical&hide_border=true&locale=en)](https://github.com/davask/github-readme-stats)
 
 ```php
-const Natan = {
+const davask = {
   pronouns: ["he", "him"],
   code: [
     "PHP",
