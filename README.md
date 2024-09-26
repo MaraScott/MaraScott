@@ -84,9 +84,7 @@ const MaraScott = {
 }
 ```
 
-[![@MaraScott's Holopin board](https://holopin.me/MaraScott)](https://holopin.io/@MaraScott)
-
----
+[![@MaraScott's Holopin board](https://holopin.me/davask)](#)
 
 #### 📫 Get in Touch
 
