@@ -1,36 +1,43 @@
-### Hi there 👋, I'm David!
+### Hi there 👋, I'm David (aka MaraScott)!
 
-🌍 I love to travel around the world. Lived in Hong-Kong, Germany, Netherlands, and now France.
+🌍 I love to travel the world, having lived in Hong-Kong, Germany, the Netherlands, and now France.
 
-👨‍💼 I'm an entrepreneur who helps small and medium-sized businesses get quality IT support.
+👨‍💼 I'm an IT Manager and GenAI imagery specialist with over 11 years of experience. I previously ran **Maras IT**, a business dedicated to providing high-quality IT support, but have now shifted my focus.
 
-🔨 **Tech Stacks**: IT Support, WordPress, Microsoft 365, Web Hosting, DNS Configurations, Web App Development, and more.
+🔨 **Tech Stacks**: 
+- Fullstack Development
+- Web Hosting & Multi-cloud Infrastructure
+- DNS Configurations
+- IT Support (WordPress, Microsoft 365, ComfyUI, Stable Diffusion)
+- Project Management (LAMP stack, ReactJs, PWA, and more)
 
-🎯 **Current Goal**: Focused on increasing sales for Maras IT, registered under davask sasu in France.
+🎯 **Current Challenge**: Delivering high-end GenAI image and video services using ComfyUI.
 
 ---
 
 #### 🌐 WordPress Services
-- IT Support
-- WordPress Hosting
-- Web App Development
+- IT Support & Maintenance
+- Hosting & Web App Development
 - DNS Configuration
-- Development and Maintenance
 
 #### 💼 Microsoft 365 Services
-- IT Support
-- Configuration
-- Maintenance
-- Troubleshooting
+- IT Support, Configuration & Maintenance
+- Troubleshooting & Optimization
+
+#### 🎨 ComfyUI Services
+- GenAI Image & Video Creation
+- Workflow Optimization for AI Imagery
+- High-end Image Editing & Enhancement
+- Custom AI Node Development
 
 #### 🎙️ Let's Talk!
-- WordPress? I can talk for hours.
-- Ever dreamed of Vampyr ? Let's discuss it!
+- WordPress? Let's dive deep.
+- Vampyr lore? Ready to explore.
+- ComfyUI and GenAI? Endless possibilities!
 
 ---
 
 #### 📈 GitHub Stats
-
 
 [![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaraScott&theme=radical&show_icons=true&hide_border=true&count_private=true&show_owner=true&locale=en&include_all_commits=true)](#)
 
@@ -78,7 +85,7 @@ const MaraScott = {
     "LAMP stack",
     "BEM methodology"
   ],
-  challenge : "Scale Maras IT as a global business while providing tailored IT support to SMBs"
+  challenge : "Providing high-end GenAI image and video services with ComfyUI"
 }
 ```
 
