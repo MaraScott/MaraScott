@@ -89,7 +89,8 @@ const MaraScott = {
 #### 📫 Get in Touch
 
 - LinkedIn: [David's LinkedIn](https://linkedin.com/in/davasq)
-- Web: [Maras IT](https://www.marascott.ai/)
+- Web: [MaraScott AI](https://www.marascott.ai/)
+- Youtube Chanel: [MaraScott AI](https://www.youtube.com/@marascott-ai)
 
 ---
 
