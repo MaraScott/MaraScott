@@ -30,11 +30,6 @@
 - High-end Image Editing & Enhancement
 - Custom AI Node Development
 
-#### 🎙️ Let's Talk!
-- WordPress? Let's dive deep.
-- Vampyr lore? Ready to explore.
-- ComfyUI and GenAI? Endless possibilities!
-
 ---
 
 #### 📈 GitHub Stats
@@ -100,5 +95,10 @@ const MaraScott = {
 
 ---
 
+#### 🎙️ Let's Talk!
+
 ⚡ Fun fact: I can talk about Vampyr, WordPress and ComfyUI for hours. Try me!
 
+- WordPress? Let's dive deep.
+- Vampyr lore? Ready to explore.
+- ComfyUI and GenAI? Endless possibilities!
