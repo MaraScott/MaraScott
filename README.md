@@ -94,6 +94,20 @@ const MaraScott = {
 
 ---
 
+# Sponsorship
+
+[❤️ Github Sponsor](https://github.com/sponsors/MaraScott) | [🪙 Paypal](https://www.paypal.me/marascottai)
+
+If you like my work and wish to see updates and new features please consider sponsoring my projects.
+
+Not to mention the documentation and videos tutorials. Check my YouTube Chanel [@MaraScott-AI](https://www.youtube.com/@marascott-ai)
+
+The only way to keep the code open and free is by sponsoring its development. The more sponsorships the more time I can dedicate to my open source projects.
+
+Please consider a [Github Sponsorship](https://github.com/sponsors/MaraScott) or [PayPal donation](https://www.paypal.me/marascottai) (David "MaraScott" Asquiedge). For sponsorships of $50+, let me know if you'd like to be mentioned in this readme file, you can find me on [Fern&#39;s Discord](https://discord.com/invite/t28yZEewrp) or david.asquiedge🐰maracott.ai.
+
+---
+
 #### 🎙️ Let's Talk!
 
 ⚡ Fun fact: I can talk about Vampyr, WordPress and ComfyUI for hours. Try me!
