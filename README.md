@@ -52,7 +52,7 @@ I focus on **RUN stability, incident resolution, and user experience**, with a s
 
 #### 📈 GitHub Stats
 
-<!-- [![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaraScott&theme=radical&show_icons=true&hide_border=true&count_private=true&show_owner=true&locale=en&include_all_commits=true)](#)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MaraScott&theme=dark&hide_border=true&short_numbers=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaraScott&layout=compact&theme=radical&hide_border=true&locale=en)](#) -->
 
