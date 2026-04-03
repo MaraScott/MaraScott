@@ -1,42 +1,60 @@
 ### Hi there 👋, I'm David (aka MaraScott)!
 
-🌍 I love to travel the world, having lived in Hong-Kong, Germany, the Netherlands, and now France.
+🌍 I’ve lived and worked across Hong-Kong, Germany, the Netherlands, and now France.
 
-👨‍💼 I'm an IT Manager and GenAI imagery specialist with over 11 years of experience. I previously ran **Maras IT**, a business dedicated to providing high-quality IT support, but have now shifted my focus.
+👨‍💼 I'm a **Support IT & Applicatif Specialist / Tech Lead** with 15+ years of experience across web, infrastructure, and application support.  
+I focus on **RUN stability, incident resolution, and user experience**, with a strong layer of **GenAI integration and workflow engineering**.
 
-🔨 **Tech Stacks**: 
-- Fullstack Development
-- Web Hosting & Multi-cloud Infrastructure
-- DNS Configurations
-- IT Support (WordPress, Microsoft 365, ComfyUI, Stable Diffusion)
-- Project Management (LAMP stack, ReactJs, PWA, and more)
-
-🎯 **Current Challenge**: Delivering high-end GenAI image and video services using ComfyUI.
+🔁 From WordPress & hosting to **enterprise environments and AI-powered tooling**, I bridge **operations, development, and business needs**.
 
 ---
 
-#### 🌐 WordPress Services
-- IT Support & Maintenance
-- Hosting & Web App Development
-- DNS Configuration
+### 🔨 Core Expertise
 
-#### 💼 Microsoft 365 Services
-- IT Support, Configuration & Maintenance
-- Troubleshooting & Optimization
+- Support IT & Support Applicatif (RUN, incidents, ITIL)
+- Digital Workplace & Microsoft 365 environments
+- Web applications & production systems (WordPress, APIs, LAMP)
+- GenAI workflows (ComfyUI, Python nodes, LLM integration)
+- Tech coordination (BUILD/RUN, Phase-Gate, delivery governance)
 
-#### 🎨 ComfyUI Services
-- GenAI Image & Video Creation
-- Workflow Optimization for AI Imagery
-- High-end Image Editing & Enhancement
-- Custom AI Node Development
+---
+
+### 🎯 Current Focus
+
+- Stabilizing and modernizing **applications & workflows**
+- Delivering **GenAI-powered image/video pipelines**
+- Building **scalable, user-facing AI workflows**
+- Bridging **AI experimentation → production-ready systems**
+
+---
+
+### 🧠 Tech Stack
+
+- **Languages**: PHP, Python, JavaScript, SQL, Bash
+- **Frontend**: HTML, CSS, React, PWA
+- **Backend**: Node.js, GraphQL, REST APIs
+- **Tools**: WordPress, Docker, Git, Composer, NPM
+- **AI Stack**: ComfyUI, Stable Diffusion, LLMs, Gradio
+- **Infra**: Multi-cloud, DNS, hosting, Windows Server
+
+---
+
+### ⚙️ What I Actually Do
+
+- 🛠️ Resolve production issues end-to-end (infra → app → user)
+- 🔄 Structure BUILD / RUN processes for reliability
+- 🤖 Design and deploy GenAI workflows (image/video)
+- 🧩 Build custom ComfyUI nodes & pipelines
+- 🌐 Maintain and optimize web platforms at scale
+- 👥 Interface between **business / IT / users**
 
 ---
 
 #### 📈 GitHub Stats
 
-[![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaraScott&theme=radical&show_icons=true&hide_border=true&count_private=true&show_owner=true&locale=en&include_all_commits=true)](#)
+<!-- [![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaraScott&theme=radical&show_icons=true&hide_border=true&count_private=true&show_owner=true&locale=en&include_all_commits=true)](#)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaraScott&layout=compact&theme=radical&hide_border=true&locale=en)](#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaraScott&layout=compact&theme=radical&hide_border=true&locale=en)](#) -->
 
 ```php
 const MaraScott = {
@@ -86,11 +104,45 @@ const MaraScott = {
 
 [![@MaraScott's Holopin board](https://holopin.me/davask)](#)
 
-#### 📫 Get in Touch
+---
 
-- LinkedIn: [David's LinkedIn](https://linkedin.com/in/davasq)
-- Web: [MaraScott AI](https://www.marascott.ai/)
-- Youtube Chanel: [MaraScott AI](https://www.youtube.com/@marascott-ai)
+### 🧩 Services & Capabilities
+
+#### 🖥️ IT & Application Support
+- Incident management & troubleshooting
+- RUN / MCO stabilization
+- User support & documentation
+- Production monitoring & reliability
+
+#### 🤖 GenAI & ComfyUI
+- Image & video generation workflows
+- Custom nodes (Python)
+- Workflow optimization & automation
+- LLM integration (Gradio / APIs)
+
+#### 🌐 Web & Infrastructure
+- WordPress ecosystems (dev + ops)
+- Hosting & DNS architecture
+- Performance & security optimization
+- Migration & deployment workflows
+
+---
+
+### 📫 Get in Touch
+
+- LinkedIn: https://linkedin.com/in/davasq (https://linkedin.com/in/marascottai)
+- Website: https://www.marascott.ai/ (https://www.marascott.ai/)
+- YouTube: https://www.youtube.com/@marascott-ai (https://www.youtube.com/@marascott-ai)
+
+---
+
+### 🎙️ Let's Talk!
+
+⚡ Fun fact: I can go deep for hours on:
+- Production issues & debugging
+- WordPress & infrastructure
+- ComfyUI & GenAI workflows
+- Vampyr lore (yes, really)
 
 ---
 
@@ -106,12 +158,3 @@ The only way to keep the code open and free is by sponsoring its development. Th
 
 Please consider a [Github Sponsorship](https://github.com/sponsors/MaraScott) or [PayPal donation](https://www.paypal.me/marascottai) (David "MaraScott" Asquiedge). For sponsorships of $50+, let me know if you'd like to be mentioned in this readme file, you can find me on [Fern&#39;s Discord](https://discord.com/invite/t28yZEewrp) or david.asquiedge🐰maracott.ai.
 
----
-
-#### 🎙️ Let's Talk!
-
-⚡ Fun fact: I can talk about Vampyr, WordPress and ComfyUI for hours. Try me!
-
-- WordPress? Let's dive deep.
-- Vampyr lore? Ready to explore.
-- ComfyUI and GenAI? Endless possibilities!
